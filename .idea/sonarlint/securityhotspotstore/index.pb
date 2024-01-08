@@ -100,9 +100,9 @@ I
 src/operator/Assign1.java,a/2/a2890bf4089a230ca139481f614035aa4b162f5a
 Q
 !src/operator/ex/OperationEx1.java,5/a/5a406c00209664607769346b020f6c6b8413dfb1
-O
-src/operator/ex/Operation2.java,e/6/e617eec5d342cf9f09464bb68ffc729a0c4a7a75
 Q
 !src/operator/ex/OperationEx2.java,d/8/d8024d807c531f888a6218632e6b116e18f0709b
 Q
 !src/operator/ex/OperationEx3.java,4/3/4361adf2fa08a57d7691722f95e0cbbab4fb1b74
+A
+src/cond/If1.java,7/1/715abd9940b165b901626b28a5212fe697b2f206
