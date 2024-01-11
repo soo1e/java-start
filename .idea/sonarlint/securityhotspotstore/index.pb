@@ -234,8 +234,6 @@ E
 src/array/Array1.java,7/8/7812807394c798ff2a83d9da8e311c3f26884cf3
 I
 src/array/Array1Ref1.java,a/4/a4d7ccb03111bed48f93e740e3cb8823dd46c6f8
-H
-src/array/ArrayRef2.java,0/c/0cb4ee4fdbf39a32f4495d6b155b1f8d198a47d7
 I
 src/array/Array1Ref2.java,e/5/e5710834c5930993c439a4d45d01ba0c40925da2
 I
@@ -282,3 +280,29 @@ L
 src/method/Overloading2.java,6/8/68d63c5f12aea3289d1c8bfc61f6b88e338a6335
 L
 src/method/Overloading3.java,3/3/33f59ffc7cfd2abec0b00c5fed46aecaa29f5147
+J
+src/array/ex/ArrayEx1.java,9/2/92fedebca118ccb693b86747307f5ce420d9c905
+J
+src/array/ex/ArrayEx2.java,f/6/f6cc814c94e63012b895eeb575ef3d95d859207e
+J
+src/array/ex/ArrayEx3.java,5/2/526755a9f5445e8293a54d13f3f91874bd7105f4
+J
+src/array/ex/ArrayEx4.java,1/d/1d491c2af8c8aacfc3935aaa9ee47855dd3f171e
+J
+src/array/ex/ArrayEx5.java,9/6/96bb7d3ddedaa0543ed93e9bd420084559244cff
+J
+src/array/ex/ArrayEx6.java,d/3/d308f26b4cf4c61c382aec3e18aa3feb0f0b967e
+J
+src/array/ex/ArrayEx7.java,4/a/4a16cb029bb11a2e01b353ae9fc518f2b1656a8e
+J
+src/array/ex/ArrayEx8.java,1/c/1c71cc7a042dbe89a4f48feffb0b66e9baec127c
+P
+ src/array/ex/ProductAdminEx.java,3/f/3f42d64f5a278c650929ceb0dd15dfc5ca07c0d7
+O
+src/method/ex/MethodEx1Ref.java,3/f/3fd56995d83f01f23bd2f66fc6f4c02103c0aa8b
+O
+src/method/ex/MethodEx2Ref.java,8/4/84e286f98f99885b27981f8a0e384171e94b168b
+O
+src/method/ex/MethodEx3Ref.java,7/6/767a4027af351bc1e0dc01fc959133c7054c856c
+O
+src/method/ex/MethodExRef4.java,1/4/145aba2a54ed452cab75a8cd0769c75a1aef2f25
